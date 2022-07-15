@@ -1,0 +1,110 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 350%;
+}
+
+.dark-color {
+    color: grey;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10%;
+    text-align: justify;
+}
+
+.half-width img {
+    width: 400PX;
+}
+
+.about {
+    text-align: justify;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.about-me {
+    background-image: url(images/shapes/7.png);
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+span {
+    color: orangered;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgba(235, 54, 8, 0.856);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 200;
+    border-radius: 20PX;
+    box-shadow: 10px 10px 30px rgb(240, 73, 7);
+    margin-top: 20%;
+}
+
+.Recipies {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.Recipies-1 img {
+    width: 70%;
+    margin-top: 4%;
+    margin-left: 10%;
+}
+
+.Recipies-1 {
+    margin: 5%;
+    padding-left: 2%;
+    padding-right: 0.5%;
+    border-radius: 15px;
+    box-shadow: 15px 10px 30px gray;
+}
+
+.text {
+    text-align: justify;
+    padding-right: 25%;
+}
+
+.fx-1 {
+    padding-left: 20%;
+}
+
+.fx-2 {
+    padding-left: 10%;
+    box-shadow: 10px 10px 20px;
+    border-radius: 50px;
+    margin: auto;
+    width: 800px;
+}
+
+h4 {
+    font-size: small;
+}
+
+footer {
+    height: 200px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: white;
+    margin: 100px;
+    background-color: black;
+}
+
+.color {
+    color: chocolate
+}
+
+.or-color {
+    color: slategrey;
+}
